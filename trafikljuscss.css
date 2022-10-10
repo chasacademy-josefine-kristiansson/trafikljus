@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0; 
+}
+
+body {
+    background-color: lightgray;
+}
+
+.wrapper {
+    background-color: white;
+    width: 200px;
+    padding: 10px 0; 
+    margin: 0 auto; 
+}
+
+.red {
+    height: 150px;
+    width: 150px; 
+    margin: 0px auto; 
+    background-color: red;
+    border: 15px solid darkred;
+}
+
+.robert {
+    height: 75px;
+    width: 150px;
+    background-color: lightcoral;
+    margin-top: 75px;
+}
+
+.yellow {
+    height: 150px;
+    width: 150px;
+    margin: 10px auto;
+    background-color: yellow;
+    border: 15px solid darkgoldenrod;
+}
+.gun-britt {
+    height: 75px;
+    width: 75px;
+    margin-top: 75px;
+    margin-left: 75px;
+    background-color: lightyellow;
+}
+
+.green {
+    height: 150px;
+    width: 150px; 
+    margin: 0px auto;
+    background-color: green;
+    border: 15px solid darkgreen;
+}
+
+.gustav {
+    height: 75px;
+    width: 75px;
+    margin-top: 75px;
+    margin-right: 75px;
+    background-color: lightgreen;
+}
